@@ -1,0 +1,230 @@
+.bg-3-icon5 {
+  /* position: absolute;
+  top: 107.7px;
+  left: -25.8px;
+  width: 1507.8px;
+  height: 1144.1px;
+  object-fit: cover; */
+  width: 100%;
+  height: 2000px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+}
+.home-icon2 {
+  position: absolute;
+  height: 8.77%;
+  width: 11.92%;
+  top: 0;
+  right: 88.08%;
+  bottom: 91.23%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div21,
+.solo-leveling21 {
+  position: absolute;
+  top: 77.3px;
+  left: 42.4px;
+  font-weight: 800;
+}
+.solo-leveling21 {
+  top: 79.3px;
+  left: 66.4px;
+}
+.home-solo {
+  position: absolute;
+  height: 8.72%;
+  width: 15.03%;
+  top: 5.29%;
+  right: 82.85%;
+  bottom: 85.99%;
+  left: 2.13%;
+}
+.solo-leveling22 {
+  position: absolute;
+  top: 255.8px;
+  left: 73px;
+  font-size: var(--font-size-41xl);
+  letter-spacing: 0.16em;
+  text-transform: capitalize;
+  font-family: var(--font-medievalsharp);
+}
+.trailer-child {
+  position: absolute;
+  top: 377.5px;
+  left: 32.3px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  width: 1375.4px;
+  height: 798.3px;
+}
+.rectangle-video {
+  position: absolute;
+  top: 420.8px;
+  left: 95.5px;
+  border-radius: var(--br-6xl);
+  width: 1265.3px;
+  height: 711.7px;
+  background-image: url(./public/rectangle-471@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.back-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 210.8px;
+  height: 65px;
+}
+.back1 {
+  position: absolute;
+  top: 21.5px;
+  left: 72.2px;
+  line-height: 22px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 66.4px;
+}
+.back,
+.home-icon3 {
+  position: absolute;
+  cursor: pointer;
+}
+.back {
+  top: 255.8px;
+  left: 1196.9px;
+  width: 210.8px;
+  height: 65px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-koulen);
+}
+.home-icon3 {
+  height: 1.71%;
+  width: 1.79%;
+  top: 11.81%;
+  right: 96.08%;
+  bottom: 86.48%;
+  left: 2.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bg-18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-royalblue);
+  width: 1600px;
+  height: 125px;
+}
+.popular12 {
+  height: 22.4%;
+  width: 8.75%;
+  top: 42.4%;
+  left: 16.18%;
+  line-height: 27.5px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.genres11,
+.popular12,
+.search-child4 {
+  position: absolute;
+  cursor: pointer;
+}
+.genres11 {
+  height: 22.4%;
+  width: 8.75%;
+  top: 42.4%;
+  left: 28.96%;
+  line-height: 27.5px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.search-child4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslateblue);
+  border: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 500px;
+  height: 80px;
+}
+.search-icon6 {
+  position: absolute;
+  height: 68.75%;
+  width: 11%;
+  top: 15%;
+  right: 6.8%;
+  bottom: 16.25%;
+  left: 82.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search10 {
+  position: absolute;
+  top: 26px;
+  left: 30px;
+  line-height: 28px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 89px;
+}
+.search9 {
+  position: absolute;
+  top: 23px;
+  left: 928px;
+  width: 500px;
+  height: 80px;
+  font-size: var(--font-size-xl);
+}
+.otaku-galaxy-high-resolution-l-icon16 {
+  position: absolute;
+  top: 18px;
+  left: 33px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.bookmarks9 {
+  position: absolute;
+  height: 22.4%;
+  width: 11.18%;
+  top: 42.4%;
+  left: 41.46%;
+  line-height: 28px;
+  text-transform: capitalize;
+  display: inline-block;
+  cursor: pointer;
+}
+.menu-bar8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 125px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-outfit);
+}
+.trailer {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1242px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
